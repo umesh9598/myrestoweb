@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/myrestoweb/static/css/main.852a8a98.css",
+    "main.js": "/myrestoweb/static/js/main.f8bb801e.js",
+    "static/js/787.75482286.chunk.js": "/myrestoweb/static/js/787.75482286.chunk.js",
+    "index.html": "/myrestoweb/index.html",
+    "main.852a8a98.css.map": "/myrestoweb/static/css/main.852a8a98.css.map",
+    "main.f8bb801e.js.map": "/myrestoweb/static/js/main.f8bb801e.js.map",
+    "787.75482286.chunk.js.map": "/myrestoweb/static/js/787.75482286.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.852a8a98.css",
+    "static/js/main.f8bb801e.js"
+  ]
+}
