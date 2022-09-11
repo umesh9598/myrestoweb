@@ -1,19 +1,20 @@
 const Menu = [
-    {
-    id : 1,
-    image: "../images/maggi.jpg",
-    name : "Maggi",
-    category : "BreakFast",
-    price : 40,
-    description : "Maggi is a very dilicious food.Its taste make you feel better.Two minutes of maggi make your day"
-},
+
 {
-    id : 2,
+    id : 1,
     image: "./images/salad.jpg",
     name : "Salad",
     category : "BreakFast",
     price : 45,
     description : "Salad is a light and  healthy food. If you wish for a healthier lunch or lighter dinner, we have a seasonal Salad Menu for you. Our salads are prepared from fresh produce, local when possible, and premium meats.We did not forget the vegetarians who can enjoy the meat-free salad. "
+},
+{
+    id : 2,
+    image: "../images/maggi.jpg",
+    name : "Maggi",
+    category : "BreakFast",
+    price : 40,
+    description : "Maggi is a very dilicious food.Its taste make you feel better.Two minutes of maggi make your day"
 },
 {
     id : 3,
