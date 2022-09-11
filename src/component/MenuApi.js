@@ -10,11 +10,11 @@ const Menu = [
 },
 {
     id : 2,
-    image: "../images/maggi.jpg",
-    name : "Maggi",
+    image: "../images/idali.jpg",
+    name : "Idali",
     category : "BreakFast",
     price : 40,
-    description : "Maggi is a very dilicious food.Its taste make you feel better.Two minutes of maggi make your day"
+    description : "Idli is made from ground rice or rice flour mixed with ground urad dal, salt, methi (fenugreek seeds) and water. The mixture is allowed to ferment prior to being steamed in an idli steamer. They are traditional to Southern India and are most often eaten with sambar."
 },
 {
     id : 3,
